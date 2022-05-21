@@ -24,4 +24,3 @@ I'm an ML practitioner with experience in natural language processing and data s
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for reading changed my life!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitramir55)](https://github.com/mitramir55/github-readme-stats)
