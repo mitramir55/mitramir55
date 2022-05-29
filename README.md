@@ -20,8 +20,8 @@ I'm an ML practitioner with experience in natural language processing and data s
 - 🔭 I’m currently a grad student at the **University of Calgary**.
 - 🌱 I’m currently learning how to **create webapps**.
 - 👯 I’m looking to collaborate on **NLP projects**.
-- 📫 How to reach me: _mitra.mirshafiee@gmail.com_
-- 🖥️ Website: <u>mitramirshafiee.ir</u>
+- 📫 How to reach me: _mitra.mirshafiee@gmail.com
+- 🖥️ Website: _mitramirshafiee.ir_
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for reading changed my life!
 
