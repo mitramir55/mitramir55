@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm an ML practitioner with experience in natural language processing and data science.
 
-- 🔭 I’m currently a grad student at the **University of Calgary**.
-- 🌱 I’m currently learning how to **create webapps**.
-- 👯 I’m looking to collaborate on **NLP projects**.
+- 🔭 I recently finished my master's in Electrical and Software engineering at the **University of Calgary**.
+- 🌱 I’m currently learning how to **have a consistant worflow in different ML projects**.
+- 👯 I’m looking to collaborate on **NLP/image processing projects**.
 - 📫 How to reach me: mitra.mirshafiee@gmail.com
 - 🖥️ Website: *mitramirshafiee.ir*
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My love for reading changed my life!
+- ⚡ Fun fact: I'm an introvert that everyone accounts as an extrovert.
 
