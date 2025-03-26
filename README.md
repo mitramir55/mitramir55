@@ -21,7 +21,6 @@ I'm an ML practitioner with experience in natural language processing and data s
 - 🌱 I’m currently learning how to **have a consistant worflow in different ML projects**.
 - 👯 I’m looking to collaborate on **NLP/image processing projects**.
 - 📫 How to reach me: mitra.mirshafiee@gmail.com
-- 🖥️ Website: *mitramirshafiee.ir*
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an introvert that everyone accounts as an extrovert.
 
