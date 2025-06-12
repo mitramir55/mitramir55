@@ -22,6 +22,6 @@ I'm an ML practitioner with experience in natural language processing and data s
 - 👯 I’m looking to collaborate on **NLP/image processing projects**.
 - 📫 How to reach me: mitra.mirshafiee@gmail.com
 - 😄 Pronouns: She/Her
-- 🎆 [Portfolio]([url](https://www.notion.so/Hello-World-1fed4952428d804abe5ece713c46a661?source=copy_link)): 
+- 🎆 [Portfolio](https://www.notion.so/Hello-World-1fed4952428d804abe5ece713c46a661?source=copy_link)
 - ⚡ Fun fact: I'm an introvert that everyone accounts as an extrovert.
 
