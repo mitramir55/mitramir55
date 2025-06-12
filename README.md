@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an ML practitioner with experience in natural language processing and data science.
+I'm an ML practitioner with experience in natural language processing and data science. I finished my master's in Electrical and Software engineering at the University of Calgary. I'm working with an early-stage startup called Lucid Axon.
 
-- 🔭 I recently finished my master's in Electrical and Software engineering at the **University of Calgary**.
-- 🌱 I’m currently learning how to **have a consistant worflow in different ML projects**.
-- 👯 I’m looking to collaborate on **NLP/image processing projects**.
 - 📫 How to reach me: mitra.mirshafiee@gmail.com
 - 😄 Pronouns: She/Her
 - 🎆 [Portfolio](https://www.notion.so/Hello-World-1fed4952428d804abe5ece713c46a661?source=copy_link)
-- ⚡ Fun fact: I'm an introvert that everyone accounts as an extrovert.
 
